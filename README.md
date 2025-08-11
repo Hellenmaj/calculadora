@@ -1,5 +1,4 @@
 # calculadora
-# CALCULADORA 
 
 # HELLEN ANDRADE - 67001108  
 
