@@ -1,6 +1,6 @@
 # calculadora
 
-# HELLEN ANDRADE - 67001108  
+# Hellen Adrade - 67001108  
 
 import tkinter as tk 
 
